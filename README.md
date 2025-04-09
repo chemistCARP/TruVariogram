@@ -1,7 +1,7 @@
 # TruVariogram
 
 ## Description
-TruVariogram is an Excel VBA program developed by Christian Romero Prieto as part of work conducted at Noster Tec. This tool is designed to perform variography-based analysis by automatically generating spreadsheets for environmental parameters measured across a series of sampling points along a linear sequence. While the concept of "linear" is straightforward for rivers, in soil analysis, a continuous linear sequence must be established to apply variography effectively.
+TruVariogram is an Excel VBA program developed by Christian Romero Prieto as part of work conducted at Noster Tec. This tool is designed to perform variography-based analysis by automatically generating spreadsheets for environmental parameters measured across a series of sampling points along a linear sequence. While the concept of "linear" is straightforward for rivers, in soil analysis, a continuous linear sequence must be established to apply variography effectively. Since evaluations are performed sequentially, this methodology can be applied not only to rivers but also to deep sampling scenarios, such as geological boreholes, vertical sampling in wells, lakes, seas, and similar environments. Additionally, it is suitable for time-based measurements at a fixed point, including those used in the mining-metallurgical industry or fixed sampling stations in water streams where samples are collected at defined intervals.
 
 ### Key Features
 - **Critical Points and Parameters:** Identifies and evaluates critical points and parameters based on variography.
